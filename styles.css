@@ -1,0 +1,41 @@
+.header-content {
+  height: 70px;
+  background-color: #1e90ff;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+
+  .header-content__btn-delete {
+    background-color: #ff0000;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    font-size: 21px;
+  }
+
+  .header-content__btn-add {
+    background-color: #0d962f;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+    font-size: 21px;
+  }
+}
+
+.header-content h2 {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.main-content {
+  display: flex;
+  margin-top: 20px;
+}
