@@ -18,3 +18,5 @@ com copilot    00:28:09
 ## Referências
   - [BootstrapCDN](https://www.bootstrapcdn.com/)
   - [Bootstrap Icons](https://icons.getbootstrap.com/)
+  - [CSS Reset](https://www.devmedia.com.br/como-utilizar-a-tecnica-css-reset/26797)
+
