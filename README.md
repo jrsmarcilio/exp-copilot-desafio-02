@@ -6,7 +6,7 @@ Implemente um HTML que apresente a seguinte estrutura. Implemente apenas o front
 
 ## Layout
 
-<img src="./assets/ui-page.png" alt="Interface UI">
+<img src="./ui-page.png" alt="Interface UI">
 
 
 ## Tempo correspondente:
